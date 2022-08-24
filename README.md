@@ -2,11 +2,11 @@
 
 You can use this repository to convert your annotation files
 
-from .txt to .xml
+# from .txt to .xml
 
-and
+or
 
-from .xml to .txt
+# from .xml to .txt
 
 example of xml file :
 
